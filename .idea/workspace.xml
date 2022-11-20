@@ -26,9 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7247d73-a7c3-49bf-ac1c-4e8279471d6a" name="Default Changelist" comment="新项目">
-      <change afterPath="$PROJECT_DIR$/_config.butterfly.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/123132.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/123132.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2HoIEw3FK4cTwg4u84m6wNwHFrB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +52,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.deploy_git" />
     <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\win-os-projects\arrowfield.github.io\.deploy_git" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668944901815</updated>
-      <workItem from="1668944907664" duration="598000" />
+      <workItem from="1668944907664" duration="1944000" />
     </task>
     <task id="LOCAL-00001" summary="新项目">
       <created>1668945030655</created>
@@ -69,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668945030656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新项目">
+      <created>1668945640017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668945640017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,9 +120,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="新项目" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="870" y="445" key="Vcs.Push.Dialog.v2" timestamp="1668945087675">
+    <state x="299" y="121" width="1546" height="1115" key="DiffContextDialog" timestamp="1668945883557">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="870" y="445" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1668945087675" />
+    <state x="299" y="121" width="1546" height="1115" key="DiffContextDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1668945883557" />
+    <state x="870" y="445" key="Vcs.Push.Dialog.v2" timestamp="1668945651724">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="870" y="445" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1668945651724" />
   </component>
 </project>
