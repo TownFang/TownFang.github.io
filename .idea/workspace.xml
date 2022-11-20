@@ -26,12 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7247d73-a7c3-49bf-ac1c-4e8279471d6a" name="Default Changelist" comment="新项目">
-      <change afterPath="$PROJECT_DIR$/source/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/index_img.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.butterfly.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.butterfly.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/123132.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/123132.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/123132.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +54,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.deploy_git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/img" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\win-os-projects\arrowfield.github.io\source\img" />
       <recent name="E:\win-os-projects\arrowfield.github.io\.deploy_git" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668944901815</updated>
-      <workItem from="1668944907664" duration="1944000" />
+      <workItem from="1668944907664" duration="2012000" />
+      <workItem from="1668953394369" duration="3237000" />
     </task>
     <task id="LOCAL-00001" summary="新项目">
       <created>1668945030655</created>
@@ -86,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668945640017</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新项目">
+      <created>1668946869672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668946869672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,19 +138,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新项目" />
     <option name="LAST_COMMIT_MESSAGE" value="新项目" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="490" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668953415062">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="490" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1668953415062" />
     <state x="299" y="121" width="1546" height="1115" key="DiffContextDialog" timestamp="1668945883557">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
     <state x="299" y="121" width="1546" height="1115" key="DiffContextDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1668945883557" />
-    <state x="870" y="445" key="Vcs.Push.Dialog.v2" timestamp="1668945651724">
+    <state width="1710" height="308" key="GridCell.Tab.0.bottom" timestamp="1668956503604">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="870" y="445" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1668945651724" />
+    <state width="1710" height="308" key="GridCell.Tab.0.bottom/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
+    <state width="1710" height="308" key="GridCell.Tab.0.center" timestamp="1668956503604">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1710" height="308" key="GridCell.Tab.0.center/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
+    <state width="1710" height="308" key="GridCell.Tab.0.left" timestamp="1668956503604">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1710" height="308" key="GridCell.Tab.0.left/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
+    <state width="1710" height="308" key="GridCell.Tab.0.right" timestamp="1668956503604">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1710" height="308" key="GridCell.Tab.0.right/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
+    <state x="870" y="445" key="Vcs.Push.Dialog.v2" timestamp="1668946892679">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="870" y="445" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1668946892679" />
+    <state x="1416" y="650" width="605" height="584" key="find.popup" timestamp="1668953649271">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1416" y="650" width="605" height="584" key="find.popup/0.0.2560.1392@0.0.2560.1392" timestamp="1668953649271" />
   </component>
 </project>

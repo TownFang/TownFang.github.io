@@ -87,7 +87,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: /img/index_img.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -620,7 +620,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   # Effect Speed Options (打字效果速度參數)
@@ -635,7 +635,7 @@ subtitle:
   # source: 2  調用一句網（簡體） http://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
-  source: false
+  source: true
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
 
@@ -669,10 +669,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Arrowfield
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 天道酬勤功不唐捐
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
