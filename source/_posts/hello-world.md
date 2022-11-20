@@ -6,11 +6,12 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ## Quick Start
 
 ### Create a new post
-456
+
 ``` bash
 $ hexo new "My New Post"
 ```
 
+方姿平
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server

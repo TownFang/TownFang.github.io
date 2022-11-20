@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: zip
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: zip
-language: zh-CN
+author: John Doe
+language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com/
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -43,46 +43,18 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-  # 本文作者： Ruri Shimotsuki @優萌初華
-  # 本文链接： https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/dependents/
-  # 版权声明： 本站所有文章除特别声明外，均采用 (CC)BY-NC-SA 许可协议。转载请注明出处！
-
-markdown:
-  render:
-    html: false
-    xhtmlOut: true
-    breaks: true
-    linkify: true
-    typographer:
-    quotes: '“”‘’'
-  plugins:
-    - plugin:
-        name: markdown-it-toc-and-anchor
-        enable: true
-        options:
-          tocClassName: 'toc'
-          anchorClassName: 'anchor'
-    - plugin:
-        name: markdown-it-multimd-table
-        enable: true
-        options:
-          multiline: true
-          rowspan: true
-          headerless: true
-    - plugin:
-        name: ./markdown-it-furigana
-        enable: true
-        options:
-          fallbackParens: "()"
-    - plugin:
-        name: ./markdown-it-spoiler
-        enable: true
-        options:
-          title: "你知道得太多了"
 highlight:
-  enable: false
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
 prismjs:
   enable: false
+  preprocess: true
+  line_number: true
+  tab_replace: ''
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -125,106 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: shoka
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repository: https://github.com/Arrowfield/arrowfield.github.io.git
-  branch: main
-# opitions for renderer
-
-
-# 本文作者： Ruri Shimotsuki @優萌初華
-# 本文链接： https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/config/
-# 版权声明： 本站所有文章除特别声明外，均采用 (CC)BY-NC-SA 许可协议。转载请注明出处！
-
-
-
-# options for minify
-minify:
-  html:
-    enable: true
-    exclude:
-      - '**/json.ejs'
-      - '**/atom.ejs'
-      - '**/rss.ejs'
-  css:
-    enable: true
-    exclude:
-      - '**/*.min.css'
-  js:
-    enable: true
-    mangle:
-      toplevel: true
-    output:
-    compress:
-    exclude:
-      - '**/*.min.js'
-# 本文作者： Ruri Shimotsuki @優萌初華
-# 本文链接： https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/dependents/
-# 版权声明： 本站所有文章除特别声明外，均采用 (CC)BY-NC-SA 许可协议。转载请注明出处！
-
-autoprefixer:
-  exclude:
-    - '*.min.css'
-
-
-
-
-
-
-feed:
-  limit: 20
-  order_by: "-date"
-  tag_dir: false
-  category_dir: false
-  rss:
-    enable: true
-    template: "themes/shoka/layout/_alternate/rss.ejs"
-    output: "rss.xml"
-  atom:
-    enable: true
-    template: "themes/shoka/layout/_alternate/atom.ejs"
-    output: "atom.xml"
-  jsonFeed:
-    enable: true
-    template: "themes/shoka/layout/_alternate/json.ejs"
-    output: "feed.json"
-
-
-algolia:
-  appId: "XA4XSATM7Q"
-  apiKey: "94ace3bd158394363f73fcfb30b1584e"
-  adminApiKey: "f92d00e54fdce3dba0da5ce79ae85a61"
-  chunkSize: 5000
-  indexName: "zipblog"
-  fields:
-    - content:strip:truncate,0,500
-    - excerpt:strip
-    - gallery
-    - permalink
-    - photos
-    - slug
-    - tags
-    - title
-    - path #必须配置
-
-symbols_count_time:
-  symbols: true
-  time: true
-  total_symbols: true
-  total_time: true
-  exclude_codeblock: false
-  awl: 4
-  wpm: 275
-  suffix: "mins."
-
-# hexo-admin authentification
-admin:
-  username: admin
-  password_hash: $2a$10$DOoqGb4kUVvaLSIQriuZoOulyI0HIjr6xj/Im1r6x9OspXwt4pSpC
-  secret: hexo-admin
-  deployCommand: 'hexo d'
-
+  type: ''
