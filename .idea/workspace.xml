@@ -25,9 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7247d73-a7c3-49bf-ac1c-4e8279471d6a" name="Default Changelist" comment="新项目">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c7247d73-a7c3-49bf-ac1c-4e8279471d6a" name="Default Changelist" comment="忽略">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.butterfly.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.butterfly.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2022-11-21.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2022-11-21.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669024806355</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="忽略">
+      <created>1669035983010</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669035983010</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +181,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新项目" />
     <MESSAGE value="文章的修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="文章的修改" />
+    <MESSAGE value="忽略" />
+    <option name="LAST_COMMIT_MESSAGE" value="忽略" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1710" height="442" key="GridCell.Tab.0.bottom" timestamp="1669037885975">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1710" height="442" key="GridCell.Tab.0.bottom/0.0.2560.1392@0.0.2560.1392" timestamp="1669037885975" />
+    <state width="1710" height="442" key="GridCell.Tab.0.center" timestamp="1669037885975">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1710" height="442" key="GridCell.Tab.0.center/0.0.2560.1392@0.0.2560.1392" timestamp="1669037885975" />
+    <state width="1710" height="442" key="GridCell.Tab.0.left" timestamp="1669037885975">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1710" height="442" key="GridCell.Tab.0.left/0.0.2560.1392@0.0.2560.1392" timestamp="1669037885975" />
+    <state width="1710" height="442" key="GridCell.Tab.0.right" timestamp="1669037885975">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1710" height="442" key="GridCell.Tab.0.right/0.0.2560.1392@0.0.2560.1392" timestamp="1669037885975" />
+    <state x="659" y="433" key="Vcs.Push.Dialog.v2" timestamp="1669036065099">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="659" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1669036065099" />
   </component>
 </project>
