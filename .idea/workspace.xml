@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7247d73-a7c3-49bf-ac1c-4e8279471d6a" name="Default Changelist" comment="忽略">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669040053341</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="忽略">
+      <created>1669041022178</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669041022178</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,9 +225,9 @@
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
     <state width="1748" height="376" key="GridCell.Tab.0.right/0.0.2560.1392@0.0.2560.1392" timestamp="1669040840551" />
-    <state x="659" y="433" key="Vcs.Push.Dialog.v2" timestamp="1669040387275">
+    <state x="659" y="433" key="Vcs.Push.Dialog.v2" timestamp="1669041037566">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="659" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1669040387275" />
+    <state x="659" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1669041037566" />
   </component>
 </project>
