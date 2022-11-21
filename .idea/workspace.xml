@@ -25,15 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7247d73-a7c3-49bf-ac1c-4e8279471d6a" name="Default Changelist" comment="新项目">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/index_img.jpg" afterDir="false" />
+    <list default="true" id="c7247d73-a7c3-49bf-ac1c-4e8279471d6a" name="Default Changelist" comment="文章的修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.butterfly.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.butterfly.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/123132.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +39,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HoIEw3FK4cTwg4u84m6wNwHFrB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,6 +78,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -110,11 +113,18 @@
       <option name="project" value="LOCAL" />
       <updated>1668946869672</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="文章的修改">
+      <created>1669022982723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669022982723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -138,44 +148,10 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新项目" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="490" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668953415062">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state x="490" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1668953415062" />
-    <state x="299" y="121" width="1546" height="1115" key="DiffContextDialog" timestamp="1668945883557">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state x="299" y="121" width="1546" height="1115" key="DiffContextDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1668945883557" />
-    <state width="1710" height="308" key="GridCell.Tab.0.bottom" timestamp="1668956503604">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state width="1710" height="308" key="GridCell.Tab.0.bottom/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
-    <state width="1710" height="308" key="GridCell.Tab.0.center" timestamp="1668956503604">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state width="1710" height="308" key="GridCell.Tab.0.center/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
-    <state width="1710" height="308" key="GridCell.Tab.0.left" timestamp="1668956503604">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state width="1710" height="308" key="GridCell.Tab.0.left/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
-    <state width="1710" height="308" key="GridCell.Tab.0.right" timestamp="1668956503604">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state width="1710" height="308" key="GridCell.Tab.0.right/0.0.2560.1392@0.0.2560.1392" timestamp="1668956503604" />
-    <state x="870" y="445" key="Vcs.Push.Dialog.v2" timestamp="1668946892679">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state x="870" y="445" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1668946892679" />
-    <state x="1416" y="650" width="605" height="584" key="find.popup" timestamp="1668953649271">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state x="1416" y="650" width="605" height="584" key="find.popup/0.0.2560.1392@0.0.2560.1392" timestamp="1668953649271" />
+    <MESSAGE value="文章的修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="文章的修改" />
   </component>
 </project>
