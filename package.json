@@ -6,7 +6,8 @@
     "clean": "hexo clean",
     "build": "hexo generate",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "release": "hexo clean && hexo generate && hexo deploy"
   },
   "hexo": {
     "version": "5.4.2"
