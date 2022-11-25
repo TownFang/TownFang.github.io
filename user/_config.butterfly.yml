@@ -164,7 +164,7 @@ wordcount:
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 3
+  method: 2
   length: 500 # if you set method to 2 or 3, the length need to config
 
 # anchor
@@ -876,6 +876,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
   # - <link rel="stylesheet" href="/xxx.css">
   bottom:
   # - <script src="xxxx"></script>
@@ -1005,3 +1006,5 @@ footer_beautify:
   swiper_css: https://unpkg.zhimg.com/hexo-butterfly-swiper/lib/swiper.min.css
   swiper_js: https://unpkg.zhimg.com/hexo-butterfly-swiper/lib/swiper.min.js
   swiperbdage_init_js: https://unpkg.zhimg.com/hexo-butterfly-footer-beautify/lib/swiperbdage_init.min.js
+
+
