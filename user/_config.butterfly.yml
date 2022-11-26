@@ -87,17 +87,17 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/index_img.jpg
+index_img: https://w.wallhaven.cc/full/zy/wallhaven-zym92v.jpg # /img/index_img.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: https://dora-cmon.github.io/img/top_img/index.png
 
 # The banner image of archive page
 archive_img: https://dora-cmon.github.io/img/top_img/index.png
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://dora-cmon.github.io/img/top_img/index.png
 
 # The banner image of tag page
 # format:
@@ -434,7 +434,7 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics: https://hm.baidu.com/hm.js?67823f744b29036725b6555608b6326b
+baidu_analytics: https://hm.baidu.com/hm.js?48065d2538a655590379ca2caaa02806
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
