@@ -4,20 +4,11 @@ class1:
   class_desc: 快速、简单且强大的博客框架
   link_list:
     1:
-    name: Hexo
-    link: https://hexo.io/zh-tw/
-    avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-    descr: 快速、简单且强大的网志框架
+      name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网志框架
 class2:
-  class_name: Butterfly作者
-  class_desc: 今日事,今日毕
-  link_list:
-    1:
-      name: JerryC
-      link: https://jerryc.me/
-      avatar: https://jerryc.me/image/avatar.png
-      descr: 今日事,今日毕
-class3:
   class_name: 网站
   class_desc: 值得推荐的网站
   link_list:
@@ -36,3 +27,12 @@ class3:
       link: https://twitter.com/
       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
       descr: 社交分享平台
+class3:
+  class_name: 友情链接
+  class_desc:
+  link_list:
+    1:
+      name: 陈鑫磊的博客
+      link: https://www.cxl2020mc.top
+      avatar: https://www.cxl2020mc.top/img/avatar.png
+      descr: 博客网站
