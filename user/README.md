@@ -17,3 +17,5 @@ ce
 hexo-generator-sitemap
 
 [百度搜索资源平台](https://ziyuan.baidu.com/?castk=LTE%3D)
+
+草稿 hexo new draft <title>
