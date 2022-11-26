@@ -7,7 +7,7 @@ class1:
       name: Hexo
       link: https://hexo.io/zh-tw/
       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网志框架
+      descr: 快速简单且强大的网志框架
 class2:
   class_name: 网站
   class_desc: 值得推荐的网站
@@ -35,4 +35,4 @@ class3:
       name: 陈鑫磊的博客
       link: https://www.cxl2020mc.top
       avatar: https://www.cxl2020mc.top/img/avatar.png
-      descr: 博客网站
+      descr: 夜深忽梦少年事，唯梦闲人不梦君

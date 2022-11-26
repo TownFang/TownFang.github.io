@@ -771,7 +771,16 @@ medium_zoom: false
 
 # fancybox
 # http://fancyapps.com/fancybox/3/
-fancybox: true
+fancybox:
+  enable: true
+#fancybox_css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css
+#fancybox: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/198a4240/#Breaking-Change
+來源: Butterfly
+  著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 
 # Tag Plugins settings (標籤外掛)
 # --------------------------------------
@@ -971,7 +980,7 @@ footer_beautify:
     name: footer-wrap
     index: 0
   # 计时器部分配置项
-  runtime_js:  https://npm.elemecdn.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.js
+  runtime_js:  /js/runtime.js
   runtime_css: https://npm.elemecdn.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.css
   # 徽标部分配置项
   swiperpara: 3 #若非0，则开启轮播功能，每行徽标个数
