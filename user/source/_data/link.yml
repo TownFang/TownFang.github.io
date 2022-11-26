@@ -34,5 +34,15 @@ class3:
     1:
       name: 陈鑫磊的博客
       link: https://www.cxl2020mc.top
-      avatar: https://www.cxl2020mc.top/img/avatar.png
+#      avatar: https://www.cxl2020mc.top/img/avatar.png
       descr: 夜深忽梦少年事，唯梦闲人不梦君
+    2:
+      name: 叶子的个人博客
+      link: https://www.yezismile.com/
+      avatar: https://static.yezismile.com/data/photo/day_20191205/201912052110439891_s.jpeg
+      descr: 不是所有鱼都生活在同一片海洋里
+    3:
+      name: D 的个人博客
+      link: https://88250.b3log.org/
+      avatar: https://b3logfile.com/avatar/1353745196354_1611386411315.jpeg?imageView2/1/w/128/h/128/interlace/0/q/100
+      descr: 但行好事莫问前程

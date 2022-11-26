@@ -91,7 +91,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://w.wallhaven.cc/full/zy/wallhaven-zym92v.jpg # /img/index_img.jpg
+index_img: https://w.wallhaven.cc/full/qz/wallhaven-qz6zoq.jpg # /img/index_img.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://dora-cmon.github.io/img/top_img/index.png
