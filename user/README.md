@@ -20,3 +20,7 @@ hexo-generator-sitemap
 
 草稿 hexo new draft <title>
 hexo help
+
+检索功能的添加
+[Algolia](https://www.algolia.com/) 使用的是github的账号登录的
+https://www.jianshu.com/p/500e2e1e66c5

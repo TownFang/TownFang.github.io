@@ -120,3 +120,21 @@ deploy:
   type: git
   repository: https://github.com/Arrowfield/arrowfield.github.io
   branch: main
+
+
+
+algolia:
+  appId: "XA4XSATM7Q"
+  apiKey: "19dfc843794e0c26a56d2403c6cfcacb"
+  adminApiKey: "f92d00e54fdce3dba0da5ce79ae85a61"
+  chunkSize: 5000
+  indexName: "zipblog"
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
