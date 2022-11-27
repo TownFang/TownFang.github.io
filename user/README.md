@@ -50,3 +50,6 @@ theme	#ad7a86	播放器风格色彩设置
 https://mouban.mythsman.com/guest/check_user?id=264797983
 https://mouban.mythsman.com/guest/user_movie?id=264797983&action=do
 https://mouban.mythsman.com/guest/user_movie?id=264797983&action=collect
+
+[博客使用文档](https://www.antmoe.com/posts/3b43914f/)
+meta(name="keywords" content=config.keywords)
