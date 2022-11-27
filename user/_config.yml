@@ -142,7 +142,7 @@ algolia:
     - title
 
 douban:
-  user: 264797983
+  id: 264797983
   builtin: true
 #  book:
 #    title: 'This is my book title'
