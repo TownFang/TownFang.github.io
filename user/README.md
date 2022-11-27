@@ -46,3 +46,4 @@ mutex	true	该选项开启时，如果同页面有其他 aplayer 播放，该播
 listmaxheight	340px	播放列表的最大长度
 preload	auto	音乐文件预载入模式，可选项： none, metadata, auto
 theme	#ad7a86	播放器风格色彩设置
+https://mouban.mythsman.com/guest/check_user?id=264797983
