@@ -21,7 +21,7 @@
     color: var(--font-color)
 }
 @media screen and (min-width: 768px) {
-    .hbe-button{display: none !important;}
+
     /* 去除导航栏选项中底下的蓝条 */
     #nav *::after{
         background-color: transparent!important;
@@ -50,4 +50,4 @@
     #nav{justify-content: center}
 }
 
-
+.hbe-button{display: none !important;}
