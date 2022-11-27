@@ -17,10 +17,11 @@ ce
 hexo-generator-sitemap
 
 [百度搜索资源平台](https://ziyuan.baidu.com/?castk=LTE%3D)
-
+[google提交站点地图](https://search.google.com/search-console/sitemaps?resource_id=sc-domain%3Azipblog.top)
 草稿 hexo new draft <title>
 hexo help
-
+[百度认证网站](https://ziyuan.baidu.com/https/index?site=https://zipblog.top/)
+[百度提交站点地图](https://ziyuan.baidu.com/linksubmit/index)
 检索功能的添加
 [Algolia](https://www.algolia.com/) 使用的是github的账号登录的
 https://www.jianshu.com/p/500e2e1e66c5 很好的butterfly主题教程
