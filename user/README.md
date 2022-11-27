@@ -53,3 +53,4 @@ https://mouban.mythsman.com/guest/user_movie?id=264797983&action=collect
 
 [博客使用文档](https://www.antmoe.com/posts/3b43914f/)
 meta(name="keywords" content=config.keywords)
+include ./head/Open_Graph.pug
