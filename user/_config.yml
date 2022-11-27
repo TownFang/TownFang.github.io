@@ -122,6 +122,8 @@ deploy:
   branch: main
 
 
+aplayer:
+  meting: true
 
 algolia:
   appId: "XA4XSATM7Q"
@@ -138,3 +140,17 @@ algolia:
     - slug
     - tags
     - title
+
+douban:
+  user: 264797983
+  builtin: true
+#  book:
+#    title: 'This is my book title'
+#    quote: 'This is my book quote'
+  movie:
+    title: '追番列表'
+    quote: '不要停下来啊～～～'
+#  game:
+#    title: 'This is my game title'
+#    quote: 'This is my game quote'
+  timeout: 10000
