@@ -122,8 +122,8 @@ deploy:
   branch: main
 
 
-aplayer:
-  meting: true
+#aplayer:
+#  meting: true
 
 algolia:
   appId: "XA4XSATM7Q"
