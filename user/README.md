@@ -28,7 +28,7 @@ https://www.jianshu.com/p/500e2e1e66c5 很好的butterfly主题教程
 https://console-e1.leancloud.cn/apps 华北账号才有数据 使用qq邮箱登录
 [评论管理站点](https://waline-flax-phi.vercel.app/ui/register)
 
-
+[博客管理端](https://qexo.eu.org/start/build.html)
 
 选项	默认值	描述
 id	必须值	歌曲 id / 播放列表 id / 相册 id / 搜索关键字
@@ -54,3 +54,17 @@ https://mouban.mythsman.com/guest/user_movie?id=264797983&action=collect
 [博客使用文档](https://www.antmoe.com/posts/3b43914f/)
 meta(name="keywords" content=config.keywords)
 include ./head/Open_Graph.pug
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCnt1PpSANzSlKRrg3E4leuP1egrC1Q+JNiShvg2Lzb7uqy+Ar3iB2V4S9QC/Mglax9ikeM3PG5fNut+k/wWsppG6wPjsNLqOSx0MqxRX0u4Uni3Wj5t12c4D7PByNAN68avTNONm2sG1OTTHhDSSYk/wIY8VOOwak1jWN5+VjfLTsxFvTO2yuvGawVyLWHITyapmmzDulV/x2zXEFqXlPdyYl/FVBkJAwDZBVHZbVv2B8BKnxnx6sJ0GYBJ0216xKn4TKYoMtW02clTDL2Nn3GeFDVJLwt/P5c8FSq4DelI177hCKgl5UR60J9FnHpaZ+gAqGWpkBHY9Y2JX2PId4EYeRx0T6y0uzRUzvBcxFPRjyYtemuR+Dz/XtlbkXAbGaycFR0gwZlDjx2uTO3Ixq0cjmPzUw+HZqf0lj2i/f89rBtw18K5tCPYWgFfRNV0id0D/3x1z1TJsgRVtGP6ekHAqtlLczPYq+W91aYQIGojrPDJmIaFKsFiX5tCAZ2PXk= 768449566@qq.com
+
+https://qexo.eu.org/configs/vercel.html
+
+列出所有的github密钥：ls -al ~/.ssh https://blog.51cto.com/u_14866376/4858965
+
+管理端用户名：木之下
+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
+
+https://qexo-bnrjyl39j-arrowfield.vercel.app/settings.html
+
+Verce：1MV580XA0OIQaCXRSDjqh48R
+项目id：prj_wcJA8EUZmKOnSIJfLi8Z54mxak1V
