@@ -1,4 +1,4 @@
-name: 自动化部署Hexo博客想脚本
+name: 自动化部署Hexo博客脚本
 on:
   push:
     branches:
