@@ -1,4 +1,4 @@
-name: GitHub Actions Build and Deploy Demo
+name: 自动化部署Hexo博客想脚本
 on:
   push:
     branches:
@@ -11,11 +11,14 @@ jobs:
       uses: actions/checkout@v2
       with:
         persist-credentials: false
-
-    - name: Build and Deploy
+    - name: Install and Build
+      run: |
+        npm install
+        npm run build
+    - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
-      env:
+      with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: main
         FOLDER: .deploy_git
-        BUILD_SCRIPT: npm install && npm run build
+        
