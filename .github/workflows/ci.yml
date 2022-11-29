@@ -1,0 +1,19 @@
+name: GitHub Actions Build and Deploy Demo
+on:
+  push:
+    branches:
+      - admin
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@admin
+
+    - name: Build and Deploy
+      uses: JamesIves/github-pages-deploy-action@admin
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: main
+        FOLDER: .deploy_git
+        BUILD_SCRIPT: npm install && npm run build
