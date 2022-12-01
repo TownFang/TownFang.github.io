@@ -68,3 +68,9 @@ https://qexo-bnrjyl39j-arrowfield.vercel.app/settings.html
 
 Verce：1MV580XA0OIQaCXRSDjqh48R
 项目id：prj_wcJA8EUZmKOnSIJfLi8Z54mxak1V
+filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+-o-filter: grayscale(100%);
+-webkit-filter: grayscale(1);
