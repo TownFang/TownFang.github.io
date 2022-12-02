@@ -15,12 +15,12 @@ jobs:
       run: |
         npm -v
         npm install -g cnpm@7.1.0 --registry=https://registry.npm.taobao.org
-        cnpm install 
+        cnpm install
         cnpm run build
-    
+
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ssh-key: ${{ secrets.DEPLOY_KEY }}
         BRANCH: main
         FOLDER: public
