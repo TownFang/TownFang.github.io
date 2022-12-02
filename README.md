@@ -66,6 +66,8 @@ https://qexo.eu.org/configs/vercel.html
 [DEPLOY_KEY重要](https://www.5axxw.com/wiki/content/h4cdlo)
 DEPLOY_KEY
 
+
+
 列出所有的github密钥：ls -al ~/.ssh https://blog.51cto.com/u_14866376/4858965
 
 管理端用户名：木之下
