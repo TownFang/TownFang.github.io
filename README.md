@@ -51,7 +51,7 @@ https://mouban.mythsman.com/guest/check_user?id=264797983
 https://mouban.mythsman.com/guest/user_movie?id=264797983&action=do
 https://mouban.mythsman.com/guest/user_movie?id=264797983&action=collect
 复制 ssh-key
-生成ssh-key ssh-keygen -t rsa -m pem -b 4096 -C "youremailhere@example.com" -N ""
+生成ssh-key ssh-keygen -t rsa -m pem -b 4096 -C "768449566@qq.com" -N ""
 
 [博客使用文档](https://www.antmoe.com/posts/3b43914f/)
 meta(name="keywords" content=config.keywords)
@@ -62,6 +62,9 @@ include ./head/Open_Graph.pug
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCnt1PpSANzSlKRrg3E4leuP1egrC1Q+JNiShvg2Lzb7uqy+Ar3iB2V4S9QC/Mglax9ikeM3PG5fNut+k/wWsppG6wPjsNLqOSx0MqxRX0u4Uni3Wj5t12c4D7PByNAN68avTNONm2sG1OTTHhDSSYk/wIY8VOOwak1jWN5+VjfLTsxFvTO2yuvGawVyLWHITyapmmzDulV/x2zXEFqXlPdyYl/FVBkJAwDZBVHZbVv2B8BKnxnx6sJ0GYBJ0216xKn4TKYoMtW02clTDL2Nn3GeFDVJLwt/P5c8FSq4DelI177hCKgl5UR60J9FnHpaZ+gAqGWpkBHY9Y2JX2PId4EYeRx0T6y0uzRUzvBcxFPRjyYtemuR+Dz/XtlbkXAbGaycFR0gwZlDjx2uTO3Ixq0cjmPzUw+HZqf0lj2i/f89rBtw18K5tCPYWgFfRNV0id0D/3x1z1TJsgRVtGP6ekHAqtlLczPYq+W91aYQIGojrPDJmIaFKsFiX5tCAZ2PXk= 768449566@qq.com
 
 https://qexo.eu.org/configs/vercel.html
+
+[DEPLOY_KEY重要](https://www.5axxw.com/wiki/content/h4cdlo)
+DEPLOY_KEY
 
 列出所有的github密钥：ls -al ~/.ssh https://blog.51cto.com/u_14866376/4858965
 
