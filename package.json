@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "hexo-abbrlink": "^2.2.1",
-    "hexo-algoliasearch": "^1.0.0",
+    "hexo-algoliasearch": "^2.0.1",
     "hexo-douban": "^2.1.0",
     "hexo-generator-baidu-sitemap": "^0.1.9",
     "hexo-generator-sitemap": "^3.0.1",
