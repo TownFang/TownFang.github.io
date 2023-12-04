@@ -118,7 +118,7 @@ encrypt: # hexo-blog-encrypt
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Arrowfield/arrowfield.github.io
+  repository: https://github.com/TownFang/townfang.github.io
   branch: main
 
 
