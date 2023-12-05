@@ -1348,6 +1348,6 @@ func main(){
 # 碰到的问题
 
 github进不去，配置host的解析 `140.82.114.3 github.com`
-关掉模块管理 `go env -w GO111MODULE=of` 或者使用相对路径引入自定义包1
+关掉模块管理 `go env -w GO111MODULE=of` 或者使用相对路径引入自定义包
 打开windows中的telnet程序
 端口被占用：`netstat -aon | findstr :8888`
