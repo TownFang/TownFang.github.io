@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zipblog.top/posts/d3fcb083.html</loc>
+    
+    <lastmod>2023-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zipblog.top/posts/2711c7b8.html</loc>
     
     <lastmod>2023-12-09</lastmod>
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://zipblog.top/archives/index.html</loc>
+    <loc>https://zipblog.top/categories/index.html</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -74,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://zipblog.top/categories/index.html</loc>
+    <loc>https://zipblog.top/archives/index.html</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -86,15 +95,6 @@
     <loc>https://zipblog.top/posts/2b36786b.html</loc>
     
     <lastmod>2023-12-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zipblog.top/posts/d3fcb083.html</loc>
-    
-    <lastmod>2022-12-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
